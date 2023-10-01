@@ -1,5 +1,5 @@
 # 3RD-PLACE-SOLUTION-Network-Traffic-Scenario-Prediction-Challenge-
-This repository contains the final third place solution notebook (code), solution report (in pdf), and model prediction file (in csv) respectively.
+This repository contains the final third place solution notebook (code) using a single model, the solution report (in pdf), and the model prediction file (in csv) respectively.
 
 # Network Trafffic Scenario prediction Challenge by ITU: 
 Traffic scenario classification can be used in multiple service scenarios to accurately optimize 
