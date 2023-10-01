@@ -20,3 +20,9 @@ training set data to predict the traffic scenario for unknown traffic at each mo
 instance, in this context, an "unknown scenario" refers to a scenario with known traffic but 
 unclear which of the known scenarios it belongs to, rather than a completely new scenario that 
 has never occurred before.
+
+# Note: 
+The thorough explanation about the methodology used, modeeling stragegy or structure or choice of model used, data processing etc. can be found inside the report and the finl notebook (code) attached respectively on this Repo for better understanding.
+
+Thank you ITU for organizing such a great project and also for the chance to be a part of this. 
+There is a great take away from this.
