@@ -22,7 +22,7 @@ unclear which of the known scenarios it belongs to, rather than a completely new
 has never occurred before.
 
 # Note: 
-The thorough explanation about the methodology used, modeeling stragegy or structure or choice of model used, data processing etc. can be found inside the report and the finl notebook (code) attached respectively on this Repo for better understanding.
+The thorough explanation about the methodology used, modelling stragegy or structure or choice of model used, data processing etc. can be found inside the report and the finl notebook (code) attached respectively on this Repo for better understanding.
 
 Thank you ITU for organizing such a great project and also for the chance to be a part of this. 
 There is a great take away from this.
